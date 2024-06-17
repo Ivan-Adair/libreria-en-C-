@@ -1,2 +1,2 @@
 #BIBLOTECA-LIBRERIA
-libreria en C# 
+libreria en SQL mas oracle forms
